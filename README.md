@@ -6,6 +6,13 @@ Data Science case study based on ad-campaigns run by Trivago. The problem statem
 
 I used pandas for data manipulation and pivot charts in excel for vizualisation purposes. All plots can be found in shown_ads.xlsx .
 
+# Files 
+
+1. case_problem contains the Problem Statement
+2. case_solution contains the presentation describing the solution 
+3. dataset.csv is the given dataset 
+4. data_manipulation.ipython the jupyter notebook containing the data manipulation and feature engineering conducting analysis
+
 # Highlights 
 
 1. Metrics for measuring performance were described.
